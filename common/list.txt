@@ -1,0 +1,362 @@
+卷 Database 的文件夹 PATH 列表
+卷序列号为 000000C0 EAD1:F5EE
+D:.
+│  list.txt
+│  
+└─ui
+    ├─bootstrap
+    │  ├─bootstrap-3.3.7
+    │  │  ├─css
+    │  │  │      bootstrap-theme.css
+    │  │  │      bootstrap-theme.css.map
+    │  │  │      bootstrap-theme.min.css
+    │  │  │      bootstrap-theme.min.css.map
+    │  │  │      bootstrap.css
+    │  │  │      bootstrap.css.map
+    │  │  │      bootstrap.min.css
+    │  │  │      bootstrap.min.css.map
+    │  │  │      
+    │  │  ├─fonts
+    │  │  │      glyphicons-halflings-regular.eot
+    │  │  │      glyphicons-halflings-regular.svg
+    │  │  │      glyphicons-halflings-regular.ttf
+    │  │  │      glyphicons-halflings-regular.woff
+    │  │  │      glyphicons-halflings-regular.woff2
+    │  │  │      
+    │  │  └─js
+    │  │          bootstrap.js
+    │  │          bootstrap.min.js
+    │  │          npm.js
+    │  │          
+    │  └─bootstrap-switch
+    │      ├─css
+    │      │  ├─bootstrap2
+    │      │  │      bootstrap-switch.css
+    │      │  │      bootstrap-switch.min.css
+    │      │  │      
+    │      │  └─bootstrap3
+    │      │          bootstrap-switch.css
+    │      │          bootstrap-switch.min.css
+    │      │          
+    │      └─js
+    │              bootstrap-switch.js
+    │              bootstrap-switch.min.js
+    │              
+    ├─easyico
+    │  ├─C
+    │  │  └─color
+    │  │      └─01
+    │  │          └─png
+    │  │                  64.png
+    │  │                  
+    │  └─W
+    │      └─weather
+    │          ├─120
+    │          │  ├─day
+    │          │  │      00.png
+    │          │  │      01.png
+    │          │  │      02.png
+    │          │  │      03.png
+    │          │  │      04.png
+    │          │  │      05.png
+    │          │  │      06.png
+    │          │  │      07.png
+    │          │  │      08.png
+    │          │  │      09.png
+    │          │  │      10.png
+    │          │  │      11.png
+    │          │  │      12.png
+    │          │  │      13.png
+    │          │  │      14.png
+    │          │  │      15.png
+    │          │  │      16.png
+    │          │  │      17.png
+    │          │  │      18.png
+    │          │  │      19.png
+    │          │  │      20.png
+    │          │  │      21.png
+    │          │  │      22.png
+    │          │  │      23.png
+    │          │  │      24.png
+    │          │  │      25.png
+    │          │  │      26.png
+    │          │  │      27.png
+    │          │  │      28.png
+    │          │  │      29.png
+    │          │  │      30.png
+    │          │  │      31.png
+    │          │  │      53.png
+    │          │  │      
+    │          │  └─night
+    │          │          00.png
+    │          │          01.png
+    │          │          02.png
+    │          │          03.png
+    │          │          04.png
+    │          │          05.png
+    │          │          06.png
+    │          │          07.png
+    │          │          08.png
+    │          │          09.png
+    │          │          10.png
+    │          │          11.png
+    │          │          12.png
+    │          │          13.png
+    │          │          14.png
+    │          │          15.png
+    │          │          16.png
+    │          │          17.png
+    │          │          18.png
+    │          │          19.png
+    │          │          20.png
+    │          │          21.png
+    │          │          22.png
+    │          │          23.png
+    │          │          24.png
+    │          │          25.png
+    │          │          26.png
+    │          │          27.png
+    │          │          28.png
+    │          │          29.png
+    │          │          30.png
+    │          │          31.png
+    │          │          53.png
+    │          │          
+    │          └─40
+    │              ├─day
+    │              │      00.png
+    │              │      01.png
+    │              │      02.png
+    │              │      03.png
+    │              │      04.png
+    │              │      05.png
+    │              │      06.png
+    │              │      07.png
+    │              │      08.png
+    │              │      09.png
+    │              │      10.png
+    │              │      11.png
+    │              │      12.png
+    │              │      13.png
+    │              │      14.png
+    │              │      15.png
+    │              │      16.png
+    │              │      17.png
+    │              │      18.png
+    │              │      19.png
+    │              │      20.png
+    │              │      21.png
+    │              │      22.png
+    │              │      23.png
+    │              │      24.png
+    │              │      25.png
+    │              │      26.png
+    │              │      27.png
+    │              │      28.png
+    │              │      29.png
+    │              │      30.png
+    │              │      31.png
+    │              │      53.png
+    │              │      
+    │              └─night
+    │                      00.png
+    │                      01.png
+    │                      02.png
+    │                      03.png
+    │                      04.png
+    │                      05.png
+    │                      06.png
+    │                      07.png
+    │                      08.png
+    │                      09.png
+    │                      10.png
+    │                      11.png
+    │                      12.png
+    │                      13.png
+    │                      14.png
+    │                      15.png
+    │                      16.png
+    │                      17.png
+    │                      18.png
+    │                      19.png
+    │                      20.png
+    │                      21.png
+    │                      22.png
+    │                      23.png
+    │                      24.png
+    │                      25.png
+    │                      26.png
+    │                      27.png
+    │                      28.png
+    │                      29.png
+    │                      30.png
+    │                      31.png
+    │                      53.png
+    │                      
+    ├─jQuery
+    │      jquery-3.2.1.js
+    │      jquery-3.2.1.min.js
+    │      
+    ├─layui
+    │  │  layui.js
+    │  │  
+    │  ├─css
+    │  │  │  layui.css
+    │  │  │  layui.mobile.css
+    │  │  │  
+    │  │  └─modules
+    │  │      │  code.css
+    │  │      │  
+    │  │      ├─laydate
+    │  │      │      icon.png
+    │  │      │      laydate.css
+    │  │      │      
+    │  │      └─layer
+    │  │          └─default
+    │  │                  icon-ext.png
+    │  │                  icon.png
+    │  │                  layer.css
+    │  │                  loading-0.gif
+    │  │                  loading-1.gif
+    │  │                  loading-2.gif
+    │  │                  
+    │  ├─font
+    │  │      iconfont.eot
+    │  │      iconfont.svg
+    │  │      iconfont.ttf
+    │  │      iconfont.woff
+    │  │      
+    │  ├─images
+    │  │  └─face
+    │  │          0.gif
+    │  │          1.gif
+    │  │          10.gif
+    │  │          11.gif
+    │  │          12.gif
+    │  │          13.gif
+    │  │          14.gif
+    │  │          15.gif
+    │  │          16.gif
+    │  │          17.gif
+    │  │          18.gif
+    │  │          19.gif
+    │  │          2.gif
+    │  │          20.gif
+    │  │          21.gif
+    │  │          22.gif
+    │  │          23.gif
+    │  │          24.gif
+    │  │          25.gif
+    │  │          26.gif
+    │  │          27.gif
+    │  │          28.gif
+    │  │          29.gif
+    │  │          3.gif
+    │  │          30.gif
+    │  │          31.gif
+    │  │          32.gif
+    │  │          33.gif
+    │  │          34.gif
+    │  │          35.gif
+    │  │          36.gif
+    │  │          37.gif
+    │  │          38.gif
+    │  │          39.gif
+    │  │          4.gif
+    │  │          40.gif
+    │  │          41.gif
+    │  │          42.gif
+    │  │          43.gif
+    │  │          44.gif
+    │  │          45.gif
+    │  │          46.gif
+    │  │          47.gif
+    │  │          48.gif
+    │  │          49.gif
+    │  │          5.gif
+    │  │          50.gif
+    │  │          51.gif
+    │  │          52.gif
+    │  │          53.gif
+    │  │          54.gif
+    │  │          55.gif
+    │  │          56.gif
+    │  │          57.gif
+    │  │          58.gif
+    │  │          59.gif
+    │  │          6.gif
+    │  │          60.gif
+    │  │          61.gif
+    │  │          62.gif
+    │  │          63.gif
+    │  │          64.gif
+    │  │          65.gif
+    │  │          66.gif
+    │  │          67.gif
+    │  │          68.gif
+    │  │          69.gif
+    │  │          7.gif
+    │  │          70.gif
+    │  │          71.gif
+    │  │          8.gif
+    │  │          9.gif
+    │  │          
+    │  └─lay
+    │      ├─dest
+    │      │      layui.all.js
+    │      │      
+    │      └─modules
+    │              code.js
+    │              element.js
+    │              flow.js
+    │              form.js
+    │              jquery.js
+    │              laydate.js
+    │              layedit.js
+    │              layer.js
+    │              laypage.js
+    │              laytpl.js
+    │              mobile.js
+    │              tree.js
+    │              upload.js
+    │              util.js
+    │              
+    ├─logo_rainbow
+    │  │  rainbow.png
+    │  │  
+    │  ├─ico
+    │  │      rainbow128.ico
+    │  │      rainbow16.ico
+    │  │      rainbow24.ico
+    │  │      rainbow32.ico
+    │  │      rainbow48.ico
+    │  │      rainbow64.ico
+    │  │      rainbow72.ico
+    │  │      rainbow96.ico
+    │  │      
+    │  └─png
+    │          rainbow128.png
+    │          rainbow16.png
+    │          rainbow24.png
+    │          rainbow256.png
+    │          rainbow32.png
+    │          rainbow48.png
+    │          rainbow64.png
+    │          rainbow72.png
+    │          rainbow96.png
+    │          
+    ├─qrcode
+    │      bower.json
+    │      index-svg.html
+    │      index.html
+    │      index.svg
+    │      jquery.min.js
+    │      LICENSE
+    │      qrcode.js
+    │      qrcode.min.js
+    │      README.md
+    │      
+    └─svg
+            ico_earth.svg
+            Wikipedia-logo-v2.svg
+            
